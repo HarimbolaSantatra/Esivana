@@ -4,12 +4,12 @@
     "description": "A simple profanity filter library",
     "main": "src/index.js",
     "scripts": {
-      "test": "mocha"
+        "test": "mocha"
     },
-    "dependencies": {},
     "devDependencies": {
-      "mocha": "^10.0.0"
+        "@types/node": "^22.5.1",
+        "mocha": "^10.0.0"
     },
     "author": "TsilavinaZH",
     "license": "ISC"
-  }
+}
